@@ -37,4 +37,4 @@ jobs:
           echo "The database password is: ${{ secrets.MY_DB_PASSWORD }}"
       
   
-mp over to voya-app-repo/.github/workflows/trigger.yaml. Update it t
+
